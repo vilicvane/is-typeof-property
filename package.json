@@ -1,7 +1,7 @@
 {
-  "name": "is-tuple",
+  "name": "is-typeof-property",
   "version": "0.0.0",
-  "description": "Simple utilities for tuple type narrowing...",
+  "description": "Simple utility for `if (typeof object[property]) ...` type narrowing.",
   "repository": "https://github.com/vilic/is-tuple.git",
   "license": "MIT",
   "author": "vilicvane",
