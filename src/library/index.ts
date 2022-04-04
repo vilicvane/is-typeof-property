@@ -1,4 +1,4 @@
-export function isTypeOfProperty<
+export default function isTypeOfProperty<
   T extends object,
   TKey extends keyof T,
   TType extends
