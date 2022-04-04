@@ -1,4 +1,4 @@
-# is-tuple
+# is-typeof-property
 
 Just another awesome magic.
 
