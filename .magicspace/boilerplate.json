@@ -1,8 +1,8 @@
 {
   "extends": "@mufan/code-boilerplates/typescript",
   "options": {
-    "name": "is-tuple",
-    "description": "Simple utilities for tuple type narrowing...",
+    "name": "is-typeof-property",
+    "description": "Simple utility for `if (typeof object[property]) ...` type narrowing.",
     "repository": "https://github.com/vilic/is-tuple.git",
     "license": "MIT",
     "author": "vilicvane",

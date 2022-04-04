@@ -1,6 +1,6 @@
-# Is Tuple ...?
+# isTypeOfProperty(object, key, type)
 
-Simple utilities for tuple type narrowing...
+Simple utility for `if (typeof object[property]) ...` type narrowing.
 
 ## License
 
