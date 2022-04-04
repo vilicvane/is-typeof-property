@@ -3,7 +3,7 @@
   "options": {
     "name": "is-typeof-property",
     "description": "Simple utility for `if (typeof object[property]) ...` type narrowing.",
-    "repository": "https://github.com/vilic/is-tuple.git",
+    "repository": "https://github.com/vilic/is-typeof-property.git",
     "license": "MIT",
     "author": "vilicvane",
     "tsProjects": [
