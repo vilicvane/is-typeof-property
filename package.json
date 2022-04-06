@@ -1,6 +1,6 @@
 {
   "name": "is-typeof-property",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple utility for `if (typeof object[property]) ...` type narrowing.",
   "repository": "https://github.com/vilic/is-typeof-property.git",
   "license": "MIT",
