@@ -1,6 +1,6 @@
 # is-typeof-property
 
-Just another awesome magic.
+Simple utility for &#x60;if (typeof object[property]) ...&#x60; type narrowing.
 
 ## License
 
