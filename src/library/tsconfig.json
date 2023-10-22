@@ -1,8 +1,9 @@
 {
-  "extends": "@mufan/code/tsconfig.json",
+  "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "composite": true,
     "importHelpers": false,
+    "rootDir": ".",
     "outDir": "../../bld/library"
   }
 }
